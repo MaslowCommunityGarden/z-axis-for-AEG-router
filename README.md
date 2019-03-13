@@ -1,3 +1,3 @@
-# z-axis for AEG router
+# z-axis upgrade for AEG/Ridgid routers
 
-Modification of AEG router
+Modification of AEG and Ridgid routers for smoother and faster operation.
