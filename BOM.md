@@ -4,3 +4,13 @@
 
 To increase speed use something like this. T8 Lead Screw (4 starts * 2mm  pitch)= 8mm Lead. This would more than double the stock Z axiz speed.
 * T8 Lead Screw + Copper Nut + Coupler+ Pillow Block Bearings - [Amazon](https://www.amazon.com/gp/product/B07567KZB3/ref=ppx_od_dt_b_asin_title_s00?ie=UTF8&psc=1)
+* 8mm to 6mm coupler
+* M3 - .5 x 12mm machine screws
+
+## Tools
+* 3D printer
+* 2.5mm drill bit
+* M3 - .5 tap
+* Hack saw or cut-off wheel to shorten lead screw to approximately 106mm.
+* Drill press (Optional)
+
